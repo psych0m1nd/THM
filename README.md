@@ -1,2 +1,2 @@
 # THM
-Try Hack Me content and notes
+Try Hack Me content and personal notes
